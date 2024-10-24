@@ -1,0 +1,9 @@
+com\proyecto\Proyecto\PApiProveedor\exception\EntityNotFoundException.class
+com\proyecto\Proyecto\PApiProveedor\service\ProveedorServiceImpl.class
+com\proyecto\Proyecto\PApiProveedor\service\ProveedorService.class
+com\proyecto\Proyecto\PApiProveedor\dao\ProveedorRepository.class
+com\proyecto\Proyecto\PApiProveedor\exception\GlobalExceptionHandler.class
+com\proyecto\Proyecto\PApiProveedor\controller\ProveedorController.class
+com\proyecto\Proyecto\PApiProveedor\entity\Proveedor.class
+com\proyecto\Proyecto\PApiProveedor\PApiProveedorApplication.class
+com\proyecto\Proyecto\PApiProveedor\dto\ErrorResponseDTO.class

@@ -1,0 +1,14 @@
+com\proyecto\Proyecto\PApiProduct\entity\Producto.class
+com\proyecto\Proyecto\PApiProduct\exception\GlobalExceptionHandler.class
+com\proyecto\Proyecto\PApiProduct\service\RestClientCategory.class
+com\proyecto\Proyecto\PApiProduct\controller\ProductoController.class
+com\proyecto\Proyecto\PApiProduct\PApiProductApplication.class
+com\proyecto\Proyecto\PApiProduct\entity\Category.class
+com\proyecto\Proyecto\PApiProduct\service\ProductoService.class
+com\proyecto\Proyecto\PApiProduct\entity\Proveedor.class
+com\proyecto\Proyecto\PApiProduct\dao\ProductoRepository.class
+com\proyecto\Proyecto\PApiProduct\service\ProductoServiceImpl.class
+com\proyecto\Proyecto\PApiProduct\exception\EntityNotFoundException.class
+com\proyecto\Proyecto\PApiProduct\dto\ProductoDto.class
+com\proyecto\Proyecto\PApiProduct\service\RestClientProveedor.class
+com\proyecto\Proyecto\PApiProduct\dto\ErrorResponseDto.class

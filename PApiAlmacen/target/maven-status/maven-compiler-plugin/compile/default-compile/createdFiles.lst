@@ -1,0 +1,9 @@
+com\proyecto\Proyecto\PApiAlmacen\dto\ErrorResponseDTO.class
+com\proyecto\Proyecto\PApiAlmacen\service\AlmacenService.class
+com\proyecto\Proyecto\PApiAlmacen\entity\Almacen.class
+com\proyecto\Proyecto\PApiAlmacen\exception\EntityNotFoundException.class
+com\proyecto\Proyecto\PApiAlmacen\service\AlmacenServiceImpl.class
+com\proyecto\Proyecto\PApiAlmacen\dao\AlmacenRepository.class
+com\proyecto\Proyecto\PApiAlmacen\exception\GlobalExceptionHandler.class
+com\proyecto\Proyecto\PApiAlmacen\PApiAlmacenApplication.class
+com\proyecto\Proyecto\PApiAlmacen\controller\AlmacenController.class

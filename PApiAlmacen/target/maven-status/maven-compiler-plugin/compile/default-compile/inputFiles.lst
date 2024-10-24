@@ -1,0 +1,9 @@
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\controller\AlmacenController.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\entity\Almacen.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\PApiAlmacenApplication.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\dto\ErrorResponseDTO.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\service\AlmacenService.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\dao\AlmacenRepository.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\exception\GlobalExceptionHandler.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\exception\EntityNotFoundException.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiAlmacen\src\main\java\com\proyecto\Proyecto\PApiAlmacen\service\AlmacenServiceImpl.java
