@@ -1,6 +1,7 @@
 C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiProduct\src\main\java\com\proyecto\Proyecto\PApiProduct\service\ProductoServiceImpl.java
 C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiProduct\src\main\java\com\proyecto\Proyecto\PApiProduct\exception\EntityNotFoundException.java
 C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiProduct\src\main\java\com\proyecto\Proyecto\PApiProduct\entity\Proveedor.java
+C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiProduct\src\main\java\com\proyecto\Proyecto\PApiProduct\Resilience4jConfig.java
 C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiProduct\src\main\java\com\proyecto\Proyecto\PApiProduct\exception\GlobalExceptionHandler.java
 C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiProduct\src\main\java\com\proyecto\Proyecto\PApiProduct\dto\ErrorResponseDto.java
 C:\Users\renzo\Desktop\PROYECTO MICROSERVICIOS SPRING\PApiProduct\src\main\java\com\proyecto\Proyecto\PApiProduct\service\RestClientCategory.java

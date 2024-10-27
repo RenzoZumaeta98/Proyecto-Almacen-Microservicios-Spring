@@ -1,5 +1,6 @@
 com\proyecto\Proyecto\PApiProduct\entity\Producto.class
 com\proyecto\Proyecto\PApiProduct\exception\GlobalExceptionHandler.class
+com\proyecto\Proyecto\PApiProduct\Resilience4jConfig.class
 com\proyecto\Proyecto\PApiProduct\service\RestClientCategory.class
 com\proyecto\Proyecto\PApiProduct\controller\ProductoController.class
 com\proyecto\Proyecto\PApiProduct\PApiProductApplication.class

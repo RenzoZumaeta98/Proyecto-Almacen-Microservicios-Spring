@@ -1,8 +1,6 @@
-
 package com.proyecto.Proyecto.PApiKardex.entity;
 
 import jakarta.persistence.CascadeType;
-import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -29,14 +27,11 @@ public class Kardex {
     @OneToMany(mappedBy = "kardex", cascade = CascadeType.ALL)
     private Set<KardexItem> kardexItems; 
     
-    
     //Se crea un metodo para guardar el kardexId en cada kardexItem
     public void addKardexItem(KardexItem kardexItem){
         if(kardexItems==null){                       
             kardexItems = new HashSet<>();   //Si es nulo, se instancia
-  
         }
-        
         kardexItems.add(kardexItem);
         kardexItem.setKardex(this);
     }
